@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85aa4616-3078-44de-a9cd-4c38cbf14e23" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Data_Structurea_and_alogrithm_anslysis$Search.ic" NAME="Search Coverage Results" MODIFIED="1540041568231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Week6.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="221" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Data Structurea and alogrithm anslysis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week15/Dijkstra.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-339">
+              <caret line="93" column="9" selection-start-line="71" selection-start-column="8" selection-end-line="93" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Week7/KMPalgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-209">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week7/StringSearching.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>for</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Programing\Workspace for Java\Data Structurea and alogrithm anslysis\src\Week2</dir>
+      <dir>C:\Programing\Workspace for Java\Data Structurea and alogrithm anslysis\src\Week4</dir>
+      <dir>C:\Programing\Workspace for Java\Data Structure and algorithm analysis\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Week1/Problem1.java" />
+        <option value="$PROJECT_DIR$/src/Week1/HannoiTower.java" />
+        <option value="$PROJECT_DIR$/src/Week2/Demon.java" />
+        <option value="$PROJECT_DIR$/src/Week2/SaveJoy.java" />
+        <option value="$PROJECT_DIR$/src/Week2/BestGPA.java" />
+        <option value="$PROJECT_DIR$/src/Week2/SportMeeting.java" />
+        <option value="$PROJECT_DIR$/src/Week1/BeautifulPair.java" />
+        <option value="$PROJECT_DIR$/src/Week3/CombinePolynomials.java" />
+        <option value="$PROJECT_DIR$/src/Week3/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/Week1/Hailstone.java" />
+        <option value="$PROJECT_DIR$/src/Week4/TimeComplexityTest.java" />
+        <option value="$PROJECT_DIR$/src/Week3/Polynomial.java" />
+        <option value="$PROJECT_DIR$/src/Week4/Bin.java" />
+        <option value="$PROJECT_DIR$/src/Week4/IntegarLinkedLisst.java" />
+        <option value="$PROJECT_DIR$/src/Week5/TransformString.java" />
+        <option value="$PROJECT_DIR$/src/Week6/Search.java" />
+        <option value="$PROJECT_DIR$/src/Week7/BruteForce.java" />
+        <option value="$PROJECT_DIR$/src/Week6/KMPalgorithm.java" />
+        <option value="$PROJECT_DIR$/src/Week5/Sort.java" />
+        <option value="$PROJECT_DIR$/src/Week7/StringSearching.java" />
+        <option value="$PROJECT_DIR$/src/duixiang.java" />
+        <option value="$PROJECT_DIR$/src/Week8/Leaves.java" />
+        <option value="$PROJECT_DIR$/src/Week8/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/Week9/NewClass.java" />
+        <option value="$PROJECT_DIR$/src/Week10/dgfsg.java" />
+        <option value="$PROJECT_DIR$/src/Week10/retwtete.java" />
+        <option value="$PROJECT_DIR$/src/Week8/Preinpoist.java" />
+        <option value="$PROJECT_DIR$/src/Week10/CompleteBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/Week10/Kth.java" />
+        <option value="$PROJECT_DIR$/src/Week10/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/Week9/Tree.java" />
+        <option value="$PROJECT_DIR$/src/Week10/Judgement.java" />
+        <option value="$PROJECT_DIR$/src/Week10/AVL.java" />
+        <option value="$PROJECT_DIR$/src/Week10/Judge.java" />
+        <option value="$PROJECT_DIR$/src/Week11/WorkSchedule.java" />
+        <option value="$PROJECT_DIR$/src/Week9/Heap.java" />
+        <option value="$PROJECT_DIR$/src/Week13/Map.java" />
+        <option value="$PROJECT_DIR$/src/Week14/DirectedAcylicGraph.java" />
+        <option value="$PROJECT_DIR$/src/Week12/Line.java" />
+        <option value="$PROJECT_DIR$/src/Week14/AdjacencyListGraph.java" />
+        <option value="$PROJECT_DIR$/src/Week14/DirectedAcyclicGraph.java" />
+        <option value="$PROJECT_DIR$/src/Week14/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/Week10/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/ForTest.java" />
+        <option value="$PROJECT_DIR$/src/Week15/ShortestPath.java" />
+        <option value="$PROJECT_DIR$/src/Week15/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/Week2/HighSchoolProblem.java" />
+        <option value="$PROJECT_DIR$/src/Week2/RubertyRite.java" />
+        <option value="$PROJECT_DIR$/src/Week7/KMPalgorithm.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>unused</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Data Structure and algorithm analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structure and algorithm analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Structure and algorithm analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structure and algorithm analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Structure and algorithm analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structure and algorithm analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Week7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Structure and algorithm analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structure and algorithm analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Week15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Data Structure and algorithm analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data Structure and algorithm analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Week15" type="462c0819:PsiDirectoryNode" />
+              <item name="Dijkstra.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="Node&#9;PSI&#9;JAVA://Week4.IntegerNode" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546919366820" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Programing\Workspace for Java\Data Structure and algorithm analysis\src\Week15" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programing\Workspace for Java\Data Structurea and alogrithm anslysis\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.KMPalgorithm">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week10.BinarySearchTree" />
+      <module name="Data Structure and algorithm analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week15.Dijkstra" />
+      <module name="Data Structure and algorithm analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForTest" />
+      <module name="Data Structure and algorithm analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Judgement" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week10.Judgement" />
+      <module name="Data Structure and algorithm analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMPalgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week7.KMPalgorithm" />
+      <module name="Data Structure and algorithm analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week15.ShortestPath" />
+      <module name="Data Structure and algorithm analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringSearching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week7.StringSearching" />
+      <module name="Data Structure and algorithm analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk1.8.0_151" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Data Structure and algorithm analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Judgement" />
+      <item itemvalue="Application.BinarySearchTree" />
+      <item itemvalue="Application.ForTest" />
+      <item itemvalue="Application.ShortestPath" />
+      <item itemvalue="Application.Dijkstra" />
+      <item itemvalue="Application.KMPalgorithm" />
+      <item itemvalue="Application.StringSearching" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KMPalgorithm" />
+        <item itemvalue="Application.StringSearching" />
+        <item itemvalue="Application.Dijkstra" />
+        <item itemvalue="Application.ShortestPath" />
+        <item itemvalue="Application.ForTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85aa4616-3078-44de-a9cd-4c38cbf14e23" name="Default" comment="" />
+      <created>1536032933730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536032933730</updated>
+      <workItem from="1536032938109" duration="1851000" />
+      <workItem from="1536044008555" duration="2526000" />
+      <workItem from="1536062757957" duration="1778000" />
+      <workItem from="1536137442939" duration="2853000" />
+      <workItem from="1536338352207" duration="187000" />
+      <workItem from="1536595127681" duration="1705000" />
+      <workItem from="1536642287008" duration="2320000" />
+      <workItem from="1536653562864" duration="6049000" />
+      <workItem from="1536671545618" duration="9596000" />
+      <workItem from="1536709657710" duration="6155000" />
+      <workItem from="1536739944502" duration="6369000" />
+      <workItem from="1536766961034" duration="2149000" />
+      <workItem from="1536823503065" duration="7550000" />
+      <workItem from="1536861342198" duration="2339000" />
+      <workItem from="1536865555309" duration="3977000" />
+      <workItem from="1536888297346" duration="2537000" />
+      <workItem from="1536917209079" duration="607000" />
+      <workItem from="1537261299301" duration="3223000" />
+      <workItem from="1537272862281" duration="712000" />
+      <workItem from="1537356211638" duration="6446000" />
+      <workItem from="1537402830889" duration="11740000" />
+      <workItem from="1537435618200" duration="3785000" />
+      <workItem from="1537798446982" duration="292000" />
+      <workItem from="1537843660171" duration="6045000" />
+      <workItem from="1538026989938" duration="5149000" />
+      <workItem from="1538033273690" duration="763000" />
+      <workItem from="1538034074785" duration="45000" />
+      <workItem from="1538034155086" duration="44000" />
+      <workItem from="1538034231165" duration="4689000" />
+      <workItem from="1538184970611" duration="4882000" />
+      <workItem from="1538212487673" duration="2676000" />
+      <workItem from="1538282069698" duration="5471000" />
+      <workItem from="1538538998366" duration="5482000" />
+      <workItem from="1538730051027" duration="36000" />
+      <workItem from="1538897987499" duration="10315000" />
+      <workItem from="1538923933445" duration="3287000" />
+      <workItem from="1538988542240" duration="3954000" />
+      <workItem from="1539396280200" duration="12596000" />
+      <workItem from="1539428435032" duration="1982000" />
+      <workItem from="1539591033494" duration="5205000" />
+      <workItem from="1539919174307" duration="75000" />
+      <workItem from="1539997375618" duration="778000" />
+      <workItem from="1540027655268" duration="14043000" />
+      <workItem from="1540170733590" duration="73000" />
+      <workItem from="1540170908074" duration="1558000" />
+      <workItem from="1540195681059" duration="3901000" />
+      <workItem from="1540557091110" duration="8977000" />
+      <workItem from="1540800737416" duration="837000" />
+      <workItem from="1540803707961" duration="2981000" />
+      <workItem from="1540811919164" duration="126000" />
+      <workItem from="1540867713375" duration="102000" />
+      <workItem from="1541142693542" duration="105000" />
+      <workItem from="1541303970383" duration="647000" />
+      <workItem from="1541406523452" duration="5734000" />
+      <workItem from="1541427726345" duration="550000" />
+      <workItem from="1541500128231" duration="1788000" />
+      <workItem from="1541502612774" duration="1222000" />
+      <workItem from="1541551486401" duration="1760000" />
+      <workItem from="1541646744532" duration="2969000" />
+      <workItem from="1541655780155" duration="7681000" />
+      <workItem from="1541671067487" duration="9375000" />
+      <workItem from="1541691427785" duration="89000" />
+      <workItem from="1541730015689" duration="176000" />
+      <workItem from="1541731984393" duration="203000" />
+      <workItem from="1541813806755" duration="863000" />
+      <workItem from="1541915368579" duration="659000" />
+      <workItem from="1541929144248" duration="654000" />
+      <workItem from="1541932695600" duration="658000" />
+      <workItem from="1541948711033" duration="5105000" />
+      <workItem from="1541989914207" duration="1300000" />
+      <workItem from="1541991268283" duration="257000" />
+      <workItem from="1541991561863" duration="1850000" />
+      <workItem from="1541993533538" duration="3326000" />
+      <workItem from="1542010373943" duration="2288000" />
+      <workItem from="1542092218196" duration="217000" />
+      <workItem from="1542267351938" duration="897000" />
+      <workItem from="1542270888191" duration="1648000" />
+      <workItem from="1542284302321" duration="4061000" />
+      <workItem from="1542332264246" duration="11187000" />
+      <workItem from="1542351977066" duration="46106000" />
+      <workItem from="1542463413502" duration="3182000" />
+      <workItem from="1542505264434" duration="1654000" />
+      <workItem from="1542594221105" duration="478000" />
+      <workItem from="1542618973980" duration="1185000" />
+      <workItem from="1542633120458" duration="1123000" />
+      <workItem from="1543030311050" duration="1697000" />
+      <workItem from="1543037947981" duration="1478000" />
+      <workItem from="1543047724570" duration="9943000" />
+      <workItem from="1543068328111" duration="812000" />
+      <workItem from="1543221798911" duration="2217000" />
+      <workItem from="1543826782872" duration="2883000" />
+      <workItem from="1543835980492" duration="24000" />
+      <workItem from="1544413045499" duration="2145000" />
+      <workItem from="1544432910399" duration="163000" />
+      <workItem from="1544440184953" duration="578000" />
+      <workItem from="1544701434431" duration="2060000" />
+      <workItem from="1544778464471" duration="8279000" />
+      <workItem from="1544843923226" duration="1707000" />
+      <workItem from="1544853775896" duration="1081000" />
+      <workItem from="1544855202138" duration="5998000" />
+      <workItem from="1545484083899" duration="896000" />
+      <workItem from="1545615402665" duration="5969000" />
+      <workItem from="1545630028516" duration="6000" />
+      <workItem from="1545633235835" duration="5294000" />
+      <workItem from="1545652123525" duration="794000" />
+      <workItem from="1545874233342" duration="1203000" />
+      <workItem from="1546088465714" duration="38000" />
+      <workItem from="1546917095557" duration="2454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__Week10 - 2018.11.17 at 20h 10m 33s.xml">
+      <configuration name="All Features in: Week10" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="371534000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964706" visible="true" weight="0.19805983" />
+      <window_info id="Structure" order="1" weight="0.20291026" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5035294" side_tool="true" weight="0.2271625" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="250" y="401" width="1033" height="272" id="Run" order="2" sideWeight="0.85286987" weight="0.19536424" />
+      <window_info anchor="bottom" x="370" y="271" width="540" height="178" id="Debug" order="3" sideWeight="0.4995958" weight="0.35751295" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995958" weight="0.32819384" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4995958" weight="0.32819384" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14713015" side_tool="true" weight="0.06291391" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4995958" weight="0.22019868" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" sideWeight="0.4995958" weight="0.3294702" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32983023" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3294621" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964706" visible="true" weight="0.17219079" />
+      <window_info id="Structure" order="1" weight="0.20291026" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5035294" side_tool="true" weight="0.2271625" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="250" y="401" width="1033" height="272" id="Run" order="2" sideWeight="0.8551345" visible="true" weight="0.3432836" />
+      <window_info anchor="bottom" x="370" y="271" width="540" height="178" id="Debug" order="3" sideWeight="0.4995958" weight="0.35751295" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4995958" weight="0.32819384" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4995958" weight="0.32819384" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14486553" side_tool="true" weight="0.2671674" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.22107081" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32983023" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3294621" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week4/TimeComplexityTest.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week10/Judgement.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week10/Judgement.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week10/BinarySearchTree.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Week10/CompleteBinaryTree.java</url>
+          <line>86</line>
+          <properties class="Week10.CompleteBinaryTree" method="setValue">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Week9/NewClass.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1384">
+          <caret line="190" column="6" selection-start-line="190" selection-start-column="6" selection-end-line="190" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week10/adfsf.java" />
+    <entry file="file://$PROJECT_DIR$/src/Week10/dgfsg.java" />
+    <entry file="file://$PROJECT_DIR$/src/Week10/retw.java" />
+    <entry file="file://$PROJECT_DIR$/src/Week10/dsfafadf.java" />
+    <entry file="file://$PROJECT_DIR$/src/Week10/dfasda.java" />
+    <entry file="file://$PROJECT_DIR$/src/Week10/sdfags.java" />
+    <entry file="file://$PROJECT_DIR$/src/Week10/retwtete.java" />
+    <entry file="file://$PROJECT_DIR$/src/Week10/dfgsagf.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="2075" selection-start-line="2075" selection-end-line="2075" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week10/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week10/Judge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week10/AVL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="104" column="30" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week10/Judgement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="80" column="16" selection-start-line="80" selection-start-column="16" selection-end-line="84" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week10/Kth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2852">
+          <caret line="772" selection-start-line="772" selection-end-line="772" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week6/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4427">
+          <caret line="241" column="6" selection-start-line="241" selection-start-column="6" selection-end-line="241" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week7/BruteForce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="89" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week8/Preinpoist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="93" column="6" selection-start-line="93" selection-start-column="6" selection-end-line="93" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week11/WorkSchedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week13/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week10/CompleteBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week9/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week9/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="88" column="22" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week10/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4123">
+          <caret line="220" column="28" selection-start-line="220" selection-start-column="28" selection-end-line="220" selection-end-column="28" />
+          <folding>
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#4190#4196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10659">
+          <caret line="584" column="9" selection-start-line="584" selection-start-column="9" selection-end-line="584" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22401">
+          <caret line="1245" selection-start-line="1245" selection-end-line="1245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ForTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week12/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week15/ShortestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="84" column="12" selection-start-line="84" selection-start-column="12" selection-end-line="84" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week14/AdjacencyListGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1322">
+          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week14/DirectedAcyclicGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="85" column="41" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week14/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="e#1900#1901#0" expanded="true" />
+            <element signature="e#1938#1939#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week1/BeautifulPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1840">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week1/Hailstone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week1/HannoiTower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week1/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week2/BestGPA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week2/Demon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week2/HighSchoolProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week2/RubertyRite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="65" column="2" lean-forward="true" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week2/SportMeeting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/CombinePolynomials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Polynomial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-904">
+          <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1569">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week15/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-339">
+          <caret line="93" column="9" selection-start-line="71" selection-start-column="8" selection-end-line="93" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week7/StringSearching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week7/KMPalgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>copyright</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Data Structurea and alogrithm anslysis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
