@@ -41,7 +41,8 @@ public class CountingFreq {
             Object val = entry.getValue();
             if(((Counter)val).Count ==1)
                 continue;
-            WordFrequency wordFrequency = new WordFrequency((String)key,((Counter)val).getCount());
+            WordFrequency wordFrequency = new WordFrequency((String)key,
+                    ((Counter)val).getCount());
             treeSet.add(wordFrequency);
         }
 
